@@ -1,0 +1,12 @@
+{
+  "name": "invoice-report",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test --experimental-test-coverage",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
